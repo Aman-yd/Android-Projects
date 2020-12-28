@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="plus">+</string>
+    <string name="num2">Num2</string>
+    <string name="todo">TODO</string>
+    <string name="num1">Num1</string>
+    <string name="dfg">dfg</string>
+</resources>
